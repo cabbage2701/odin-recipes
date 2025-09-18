@@ -1,12 +1,14 @@
 # odin-recipes
 TOP Practice Use
 
-This is based on TOP Foudation Course in HTML, Project: Recipe.
-Objective to achieve at the end of the project is as follows:
-1. Familiarise with basic Git controls (wi/out referring to notes) : clone, add, staged, commit etc.
-2. Familiarise lessons on HTML to create basic website.
+<p>This is based on TOP Foudation Course in HTML, Project: Recipe.
+Objective to achieve at the end of the project is as follows:</p>
+<dd>
+	<dl>Familiarise with basic Git controls (wi/out referring to notes) : clone, add, staged, commit etc.</dl>
+	<dl>Familiarise lessons on HTML to create basic website.</dl>
+</dd>
 
-Assignment:
+<h2>Assignment:</h2>
 Iteration 1: initial structure
 Within the odin-recipes directory, create an index.html file.
 
